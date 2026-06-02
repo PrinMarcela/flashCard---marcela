@@ -2,3 +2,19 @@
       margin: 0;
       padding: 0;
 }
+.Cabecalho{ 
+      padding: 15px 25px ;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+}
+
+.Cartão { 
+      width: 260px ;
+      height: 200px ;
+ }
+
+ .Cartão-imagens{ 
+       
+      width: 100px;
+ }
