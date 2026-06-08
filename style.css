@@ -7,12 +7,27 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
+      background-color: rgb(71, 91, 202);
 }
 .cartão { 
       width: 260px ;
       height: 200px ;
  }
-
- .cartao-imagem{ 
+  .cartao-imagem{ 
        width: 100px;
  }
+ body{ 
+      display: flex;
+      flex-direction: column;
+      min-width: 100vh;
+ }
+main{
+      flex: 1;
+}
+.cabecalho-link{
+      color: rgb(53, 53, 187);
+      text-decoration: nome;
+}
+h1{ 
+      color: rgb(24, 21, 21);
+}
