@@ -30,4 +30,21 @@ main{
 }
 h1{ 
       color: rgb(24, 21, 21);
+      font-size: 24px;
+      
 }
+footer{
+background-color: rgb(5, 1, 1)
+padding; 15px  25px;
+color:
+}
+  .cartao-interno{
+   position: relative;
+  }
+  .cartao-frente,  .carta-verso{
+    position: absolute;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px red, rgb(117, 15, 12), rgb(75, 4, 2);
+
+  }
+
